@@ -48,7 +48,7 @@ function App() {
         <footer className="mt-auto border-t border-white/5 bg-black/20 px-6 py-8">
           <div className="mx-auto w-full flex max-w-6xl flex-col gap-4 md:flex-row md:items-center md:justify-between text-zinc-500">
             <p className="text-sm">
-              © 2026 API 명세서 웹. 모두의 API 가입을 쉽게 만듭니다.
+              © 2026 SHADOW API 기만 기술과 LLM 기반의 지능형 심층 보안 자동 대응 시스템 Aegies-3
             </p>
             <div className="flex flex-wrap gap-6 text-sm">
               <a className="transition hover:text-violet-400" href="#">
